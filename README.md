@@ -2,7 +2,8 @@
 
 A 3D Flutter remake of **F1 Race**, the game on old MTK keypad phones with the button that made your car fly over traffic. This time you fly the new 2026 Tesla Roadster over piles of parked Teslas.
 
-![Flying over a stack](screenshots/jump_new_model.png)
+https://github.com/user-attachments/assets/77dc9c41-3e7e-4d54-9d60-11c884220c74
+
 
 ## How to play
 
